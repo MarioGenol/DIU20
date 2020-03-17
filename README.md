@@ -3,15 +3,15 @@ Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa)
 
 Grupo: DIU1_01AABB.  Curso: 2019/20 
 
-Proyecto: 
+Proyecto: Airbnb
 
-Descripción: 
+Descripción: Airbnb es una plataforma de alquiler inmobiliario. Ofrece multitud de opciones, como alquilar habitaciones, propiedades completas, o incluso experiecias como shows, tours, y demás.
 
 Logotipo: 
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:   Mario Genol Morales     :octocat:     
+ * :bust_in_silhouette:  Jose Manuel López Molina     :octocat:
 
 ----- 
 
@@ -29,19 +29,22 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
+Plataformas para compartir piso y Airbnb
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+Las páginas web para compartir piso son una herramienta útil y novedosa, con un gran mercado, sobretodo entre la gente más joven. Estas páginas suelen tener diseños y interfaces atractivos y visuales al usuario, y cabe destacar la gran importancia de las valoraciones, ya que es el sistema que tienen para dar confianza al usuario.
+
+Airbnb es una empresa que ofrece una plataforma de software dedicada a la oferta de alojamientos a particulares y turísticos mediante la cual los anfitriones pueden publicitar y contratar el arriendo de sus propiedades con sus huéspedes. La gran diferencia con la mayoría de aplicaciones similares, es que engloba muchas más opciones. Se puede tanto alquilar habitaciones en el hogar del anfitrión, como alquilar propiedades completas, e incluso pueden comprar experiencias como tours, shows, gastronomía, etc. Es por ello que hemos elegido esta web.
+
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+Hemos elegido a estas dos personas porque nos parecen claros ejemplos de potenciales usuarios de la plataforma. Julio tiene todos los requisitos de un cliente medio que quiere alquilar una habitación. Y Juan Manuel tiene grandes cualidades para querer poner a disposición de la plataforma su propiedad o parte de ella.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
-
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+Hemos elegido estas experiencias de usuario porque nos han parecido dos formas muy corrientes de llegar a conocer la plataforma, de acuerdo con las personalidades y el grupo de edad en que se encuentran cada uno de los dos potenciales clientes.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
