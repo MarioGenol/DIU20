@@ -62,8 +62,7 @@ Por si fuera poco, la aplicación además de contar con las características que
 ----
 
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
+(P2/P2/MallaReceptoraDeInfo.jpg)
 
  Interesante | Críticas     
 | ------------- | -------
