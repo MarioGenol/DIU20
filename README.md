@@ -60,15 +60,7 @@ Por si fuera poco, la aplicación además de contar con las características que
 
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
-
-
-(P2/P2/MallaReceptoraDeInfo.jpg)
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-  
+![malla](P2/P2/MallaReceptoraDeInfo.jpg)
   
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
 >>> Problema e hipótesis
@@ -77,26 +69,21 @@ Por si fuera poco, la aplicación además de contar con las características que
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
-
->>> Definir "User Map" y "Task Flow" ... 
-
+![](P2/P2/photo_2020-04-02_17-37-00.jpg)
+![](P2/P2/USER_TASK MATRIX.jpg)
 
 ![Método UX](img/labelling.png) 2.c Labelling 
 ----
-
-
->>> Identificar términos para diálogo con usuario  
-
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
-
+![label](P2/P2/1.jpg)
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
-
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
-
+![foto](P2/P2/Bocetos/Registro.jpg)
+![foto](P2/P2/Bocetos/LogIn.jpg)
+![label](P2/P2/Bocetos/Menú.jpg)
+![label](P2/P2/Bocetos/Búsqueda.jpg)
+![label](P2/P2/Bocetos/AlojamientoConcreto.jpg)
+![label](P2/P2/Bocetos/AboutUs.jpg)
 
 ## Paso 3. Make (Prototyping) 
 
