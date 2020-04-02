@@ -48,11 +48,6 @@ Hemos elegido estas experiencias de usuario porque nos han parecido dos formas m
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  DIU20/P1/P1/Usability-review-1.xls
->>> - Valoración final (numérica): 72
->>> - Comentario sobre la valoración:
 La aplicación presenta un diseño cuidado e intuitivo, el cual nos presenta la información con grandes imágenes desde la pantalla inicial, que hacen que la experiencia de uso de la aplicación sea realmente atractiva. De hecho, el uso de estas imágenes se extiende también a las fichas de cada uno de los alojamientos, en las que los usuarios podrán encontrar toda a información referente a ellos (disponibilidad, mapa con su localización, servicios disponibles, información del anfitrión, comentarios de otros usuarios etc) que necesitan para decidir si contratar o no. Además, la aplicación también hace más sencilla la comunicación con sus anfitriones. Todas estas facilidades se amplían al poder recurrir a una completa sección de preguntas frecuentes.
 
 Por lo general, es sencillo usar la aplicación, presenta un buscador general permite localizar los alojamientos en la ciudad a visitar por el usuario, cuyos resultados se mostrarán de forma más eficaz gracias a la presencia de múltiples y variados filtros, en función del tipo de alojamiento (habitación privada, compartida etc ), el intervalo de precios o el equipamiento ofrecido (número de dormitorios, televisión, baño, WiF etc).
