@@ -150,11 +150,13 @@ Algunos de los comentarios de clientes han sido los siguientes:
 
 ### Conclusiones sacadas de nuestros usuarios
 
-FOTO
+![tabla](P3/tabla.PNG)
 
 ## Análisis de competencia
 
-FOTO
+![analisis1](P3/analisis1.png)
+![analisis2](P3/analisis2.png)
+![analisis3](P3/analisis3.png)
 
 Tras analizar páginas web similares, hemos llegado a diversas conclusiones:
 
@@ -177,11 +179,13 @@ Nos vemos en la necesidad de crear dos usuarios para identificar los objetivos y
 
 Nuestro principal usuario voluntario, Juan Manuel:
 
-FOTO
+![juan1](P3/juan1.PNG)
+![juan2](P3/juan2.PNG)
 
 Nuestro personaje secundario involuntario, Julio:
+![julio1](P3/julio1.PNG)
+![julio2](P3/julio2.PNG)
 
-FOTO
 
 ### Objetivos del usuario
 Identificamos los objetivos del usuario en función de nuestros 2 usuarios:
@@ -201,11 +205,11 @@ Identificamos los objetivos del usuario en función de nuestros 2 usuarios:
 
 Nuestro usuario Juan Manuel, ante las ganas de enriquecer su vida y la de su mujer, inician el camino para alquilar una habitación a través de airbnb.
 
-FOTO
+![journey_juan](P3/journey_juan.PNG)
 
 Por otro lado tenemos a nuestro usuario Julio, que en este caso tiene el rol de futuro inquilino, el cual se ve inspirado a buscar un alojamiento compartido debido a los precios elevados que encuentra en internet. Finalmente bajo recomendaciones de sus amistades, da con nuestra aplicación y decide alojarse en un piso con unos estudiantes que comparten habitación .
 
-FOTO
+![journey_julio](P3/journey_julio.PNG)
 
 ### Problemas que debemos evitar
 
@@ -258,7 +262,7 @@ Nuestro uso del movimiento da vida a nuestros productos y nos permite comunicarn
 
 Desde sus comienzos, la identidad adolecía de cierto amateurismo, tal y como explica Andrew Schapiro, director de diseño de Airbnb, el logo “fue creado sin una entendimiento real de lo que Airbnb era realmente”.
 
-FOTO
+![logo](P3/logo.png)
 
 Se espera que el símbolo trascienda sus connotaciones de marca para convertirse en un signo que la gente adopte y comparta como representación de una filosofía.
 
