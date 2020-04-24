@@ -141,7 +141,7 @@ Han contribuido José Manuel López Molina y Mario Genol Morales.
 
 ## Nuestros usuarios
 
- ![usuarios](P3/logo.png)
+ ![usuarios](P3/usrs.png)
  
 Algunos de los comentarios de clientes han sido los siguientes:
 * Paula Soto: ‘Airbnb es genial, todo lo que puedas desear en una página web’
