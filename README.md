@@ -125,9 +125,12 @@ Han contribuido José Manuel López Molina y Mario Genol Morales.
 
 ### Objetivos
   Primarios
+  
     * Contribuir a la sociedad con un sistema para ofrecer alojamiento de forma económica.
     * Desarrollar un sistema que englobe tanto alquiler de habitaciones y apartamentos.
+    
   Secundarios
+  
     * Contribuir a compartir cultura y vivencias.
     * Fomento del turismo en regiones no tan conocidas.
 
