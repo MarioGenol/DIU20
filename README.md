@@ -271,7 +271,7 @@ Es preciso utilizar la navegación de ruta de exploración o bredcrums para siti
 No se deben usar las brescrums para sitios web de un sólo nivel que no tienen jerarquía lógica. Una excelente manera de determinar si un sitio web se beneficiaría de las bredcrums es construir un mapa del sitio o un diagrama que represente la arquitectura de navegación del sitio web, y luego analizar si las rutas de navegación mejorarían la capacidad del usuario para navegar dentro y entre categorías.
 Las bredcrums  deben considerarse como una característica adicional y no debe reemplazar a los menús de navegación primaria efectivos. Es una característica de conveniencia; un esquema de navegación secundario que permite a los usuarios establecer dónde están; y una forma alternativa de navegar por su sitio web.
 
-## TIPOS DE BREDCRUMS
+### TIPOS DE BREDCRUMS
 
 1. Basadas en la ubicación, que muestran al usuario dónde se encuentran en la jerarquía del sitio web. Por lo general, se usan para esquemas de navegación multinivel (más de 2 niveles). 
 	Ejemplo:
@@ -287,7 +287,7 @@ Nivel1 >>     Nivel 2    >>  Nivel 3 >>  atributo
 
 Home >> Granada >> Almuñecar >> Oferta1 >> Contacto_oferta1 
 
-## BENEFICIOS DE LAS BREDCRUMS
+### BENEFICIOS DE LAS BREDCRUMS
 
 * Conveniente para los usuarios: se utilizan principalmente para proporcionar a los usuarios un medio secundario para navegar por un sitio web. Al ofrecer una ruta de navegación para todas las páginas en un sitio web grande de varios niveles, los usuarios pueden navegar a categorías de nivel superior más fácilmente.
 
