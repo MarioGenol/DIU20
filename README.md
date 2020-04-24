@@ -300,7 +300,9 @@ Home >> Granada >> Almuñecar >> Oferta1 >> Contacto_oferta1
 ## Conclusiones finales
 
 Bien es cierto que las circunstancias actuales, dado el estado de alarma, no han permitido la implementación y prueba en entornos de producción de las soluciones finales a los problemas de UX detectados, pero sin embargo se ha obtenido un conocimiento mediante el desarrollo de la práctica bastante valioso. Este documento se ha realizado siguiendo una metodología estricta de análisis y documentación, y por tanto permite determinar que las conclusiones expuestas son sólidas y robustas.
+
 El gran valor de este análisis es procurar que la UX es tratada con la rigurosidad que requiere y no bajo la mirada subjetiva del diseñador al cargo.
+
 Por lo tanto, tenemos varios caminos por los que seguir y continuar trabajando en la búsqueda de mejorar la UX. En primer lugar, seguir desarrollando las mejoras que se han dejado planteadas. En segundo, analizar las mejoras en el entorno de producción. Y, por último, seguir investigando otras técnicas de diseño de UX.
 
 
