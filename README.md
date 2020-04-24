@@ -85,30 +85,6 @@ Por si fuera poco, la aplicación además de contar con las características que
 ![label](P2/P2/Bocetos/AlojamientoConcreto.jpg)
 ![label](P2/P2/Bocetos/AboutUs.jpg)
 
-## Paso 3. Make (Prototyping) 
-
-
-![Método UX](img/moodboard.png) 3.a Moodboard
------
-
-
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
-
-![Método UX](img/landing-page.png)  3.b Landing Page
-----
-
-
->>> Plantear Landing Page 
-
-![Método UX](img/guidelines.png) 3.c Guidelines
-----
-
->>> Estudio de Guidelines y Patrones IU a usar 
-
-![Método UX](img/mockup.png)  3.d Mockup
-----
-
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
 
 # Paso 3. Case Study
 
