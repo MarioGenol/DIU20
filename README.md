@@ -141,7 +141,7 @@ Han contribuido José Manuel López Molina y Mario Genol Morales.
 
 ## Nuestros usuarios
 
- (P3/Captura de pantalla de 2020-04-24 20-32-13.png)
+ ![label](P3/Captura de pantalla de 2020-04-24 20-32-13.png)
  
 Algunos de los comentarios de clientes han sido los siguientes:
 * Paula Soto: ‘Airbnb es genial, todo lo que puedas desear en una página web’
