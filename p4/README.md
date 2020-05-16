@@ -5,7 +5,8 @@ Lista de proyectos (en github) https://github.com/mgea/DIU20/blob/master/P4/proy
 
 ## Caso 1
 
-Descripcion y hoja de valoración.
+Comentamos y analizamos la práctica de Diseño de Interfaces de Usuario del grupo DIU1_NJA. Su aplicación es una aplicación de economía colaborativa sobre experiencias de compartir viaje.
+
 Hoja de valoración https://github.com/MarioGenol/DIU20/blob/master/p4/DIU1_NJA_review.xlsx
 
 
