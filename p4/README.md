@@ -4,45 +4,50 @@ Lista de proyectos (en github) https://github.com/mgea/DIU20/blob/master/P4/proy
 
 
 ## Caso 1
-https://github.com/EspGameplayer/DIU20
 
 Comentamos y analizamos la práctica de Diseño de Interfaces de Usuario del grupo DIU1_NJA. Su aplicación es una aplicación de economía colaborativa orientada a guías turísticos.
 
--Valoración final (numérica): 92 (excellent).
+[Hoja de Valoración](https://github.com/MarioGenol/DIU20/blob/master/p4/DIU1_NJA_review.xlsx)
 
--Comentario sobre la valoración: El trabajo es sobresaliente en su conjunto, pero destaca positivamente sobretodo en el desarrollo de la idea que ofrece que está muy elaborado con unos bocetos y un sitemap de mucha calidad técnica. 
+El trabajo es sobresaliente en su conjunto, pero destaca positivamente sobretodo en el desarrollo de la idea que ofrece que está muy elaborado con unos bocetos y un sitemap de mucha calidad técnica.
 
-Hoja de valoración https://github.com/MarioGenol/DIU20/blob/master/p4/DIU1_NJA_review.xlsx
-
-
+[Enlace a Repositorio](https://github.com/EspGameplayer/DIU20)
 ## Caso 2
 
-Descripcion y hoja de valoración.  
+El compañero propone un software para compartir alojamiento común, sin demasiadas innovaciones. Adicionalmente, en la P3 cambia a una app de arte callejero.
 
+[Hoja de Valoración](https://github.com/MarioGenol/DIU20/blob/master/p4/DIU2_MACC_review.xlsx)
+
+Un trabajo completo en su conjunto. Sin elementos brillantes pero también sin deficiencias.
+
+[Enlace a Repositorio](https://github.com/MigueCc99/DIU20)
 
 ## Caso 3
 
-Descripcion y hoja de valoración.   
+Aquí se nos ofrece un software para encontrar compañeros con los que hacer deporte en naturaleza.
+
+[Hoja de Valoración](https://github.com/MarioGenol/DIU20/blob/master/p4/DIU2_MACC_review.xlsx)
+
+Conclusion valoracion
+
+[Enlace a Repositorio](https://github.com/josalmer/DIU3_Workers)
 
 ## User Testing
 
-	# Lookaround
-	
-	Antonio busca guía turístico para darle un salto de calidad a su viaje y conocer más en profundidad la historia de la zona,
-	para ello recurre a la app para contratar un guía turístico pero sospecha que se puede tratar de un timo porque  le piden 
-	dinero por adelantado. Acaba desinstalando la aplicación por falta de confianza y por su elevado nivel de "pay to use". 
-	Aquí es donde entra en juego nuestro proyecto de estudio, Lookaround el cual satisface las necesidades de usuarios que 
-	presentan este tipo de problemas. Ofreciendo así más funcionalidades de manera gratuita favoreciendo de esta forma la 
-	confianza con la aplicación por parte de los posibles futuros clientes de sus servicios.
+	Juan Manuel busca guía turístico para darle un salto de calidad a su viaje y conocer más en profundidad la historia de la zona,para ello recurre a la app para contratar un guía turístico,
+	pero sospecha que se puede tratar de un timo porque  le piden dinero por adelantado. Acaba desinstalando la aplicación por falta de confianza y por su elevado nivel de "pay to use".
+	Aquí es donde entra en juego nuestro proyecto de estudio, Lookaround el cual satisface las necesidades de usuarios que presentan este tipo de problemas.
+	Ofreciendo así más funcionalidades de manera gratuita favoreciendo de esta forma la confianza con la aplicación por parte de los posibles futuros clientes de sus servicios.
 
+	Juan Manuel se registra en la web para ofrecer su habitación. Tras varios días le llega un mensaje a través de whatsapp al teléfono de Carlos de 21 años. Está interesado en la habitación por 2 semanas.
+	Juan Manuel no puede ver el perfil de Carlos en la web, por lo que no sabe absolutamente nada del chico.
+	Juan Manuel acepta y tras esas 2 semanas se encuentra la habitación con apariencia de jaula de un animal, un desastre. Éste se lamenta ya que no había tenido acceso a ninguna reseña anterior de Carlos.
 
-
-	Describe la experiencia 2
-
-	Describe la experiencia 3
+	Juan Manuel, harto de su vida sedentaria, decide buscar a gente con la que hacer senderismo. Este encuentra la web Nature Sport y decide inscribirse.
+	Una vez inscrito no encuentra grupos de senderismo que se adapten a sus horarios, ya que los disponibles son muy temprano y hay muy poca disponibilidad. Al final Juan Manuel acaba cansado de la página y comienza a buscar otra.
 
 
 ## Conclusiones
 
--1: Este proyecto nos ha servido para realimentar nuestro conocimiento acerca de los casos de estudio, reafirmandonos en aspectos que nosotros habíamos hecho bien y mostrarnos otros en los que se podría haber hecho mejor. 
-Felicitar a este grupo por su trabajo y su aportación en general.
+Este proyecto nos ha servido para realimentar nuestro conocimiento acerca de los casos de estudio, reafirmandonos en aspectos que nosotros habíamos hecho bien y mostrarnos otros en los que se podría haber hecho mejor. 
+Felicitar a estos grupos por su trabajo y su aportación en general.
