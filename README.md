@@ -32,12 +32,21 @@ Airbnb es una empresa que ofrece una plataforma de software dedicada a la oferta
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
+Nuestro principal usuario voluntario, Juan Manuel:
+
+![juan1](P3/juan1.PNG)
+![juan2](P3/juan2.PNG)
+
+Nuestro personaje secundario involuntario, Julio:
+![julio1](P3/julio1.PNG)
+![julio2](P3/julio2.PNG)
 
 Hemos elegido a estas dos personas porque nos parecen claros ejemplos de potenciales usuarios de la plataforma. Julio tiene todos los requisitos de un cliente medio que quiere alquilar una habitación. Y Juan Manuel tiene grandes cualidades para querer poner a disposición de la plataforma su propiedad o parte de ella.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
-
+![journey_juan](P3/journey_juan.PNG)
+![journey_julio](P3/journey_julio.PNG)
 Hemos elegido estas experiencias de usuario porque nos han parecido dos formas muy corrientes de llegar a conocer la plataforma, de acuerdo con las personalidades y el grupo de edad en que se encuentran cada uno de los dos potenciales clientes.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
