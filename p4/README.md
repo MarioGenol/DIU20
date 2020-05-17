@@ -27,7 +27,12 @@ Descripcion y hoja de valoración.
 
 	# Lookaround
 	
-	Antonio busca guía turístico para darle un salto de calidad a su viaje y conocer más en profundidad la historia de la zona, para ello recurre a la app para contratar un guía turístico pero sospecha que se puede tratar de un timo porque  le piden dinero por adelantado. Acaba desinstalando la aplicación por falta de confianza y por su elevado nivel de "pay to use". Aquí es donde entra en juego nuestro proyecto de estudio, Lookaround el cual satisface las necesidades de usuarios que presentan este tipo de problemas. Ofreciendo así más funcionalidades de manera gratuita favoreciendo de esta forma la confianza con la aplicación por parte de los posibles futuros clientes de sus servicios.
+	Antonio busca guía turístico para darle un salto de calidad a su viaje y conocer más en profundidad la historia de la zona,
+	para ello recurre a la app para contratar un guía turístico pero sospecha que se puede tratar de un timo porque  le piden 
+	dinero por adelantado. Acaba desinstalando la aplicación por falta de confianza y por su elevado nivel de "pay to use". 
+	Aquí es donde entra en juego nuestro proyecto de estudio, Lookaround el cual satisface las necesidades de usuarios que 
+	presentan este tipo de problemas. Ofreciendo así más funcionalidades de manera gratuita favoreciendo de esta forma la 
+	confianza con la aplicación por parte de los posibles futuros clientes de sus servicios.
 
 
 
