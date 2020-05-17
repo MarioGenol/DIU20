@@ -308,6 +308,7 @@ Descripcion y hoja de valoración.
 ## Caso 2
 
 El compañero propone un software para compartir alojamiento común, sin demasiadas innovaciones. Adicionalmente, en la P3 cambia a una app de arte callejero.
+
 [Enlace a Repositorio](https://github.com/MigueCc99/DIU20)
 
 ## Caso 3
