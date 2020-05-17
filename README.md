@@ -306,7 +306,7 @@ Comentamos y analizamos la práctica de Diseño de Interfaces de Usuario del gru
 
 [Hoja de Valoración](https://github.com/MarioGenol/DIU20/blob/master/p4/DIU1_NJA_review.xlsx)
 
--Comentario sobre la valoración: El trabajo es sobresaliente en su conjunto, pero destaca positivamente sobretodo en el desarrollo de la idea que ofrece que está muy elaborado con unos bocetos y un sitemap de mucha calidad técnica.
+El trabajo es sobresaliente en su conjunto, pero destaca positivamente sobretodo en el desarrollo de la idea que ofrece que está muy elaborado con unos bocetos y un sitemap de mucha calidad técnica.
 
 [Enlace a Repositorio](https://github.com/EspGameplayer/DIU20)
 ## Caso 2
