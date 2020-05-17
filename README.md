@@ -302,9 +302,13 @@ Lista de proyectos (en github) https://github.com/mgea/DIU20/blob/master/P4/proy
 
 ## Caso 1
 
-Descripcion y hoja de valoración.    
+Comentamos y analizamos la práctica de Diseño de Interfaces de Usuario del grupo DIU1_NJA. Su aplicación es una aplicación de economía colaborativa orientada a guías turísticos.
 
-[Enlace a Repositorio](https://github.com/MigueCc99/DIU20)
+[Hoja de Valoración](https://github.com/MarioGenol/DIU20/blob/master/p4/DIU1_NJA_review.xlsx)
+
+-Comentario sobre la valoración: El trabajo es sobresaliente en su conjunto, pero destaca positivamente sobretodo en el desarrollo de la idea que ofrece que está muy elaborado con unos bocetos y un sitemap de mucha calidad técnica.
+
+[Enlace a Repositorio](https://github.com/EspGameplayer/DIU20)
 ## Caso 2
 
 El compañero propone un software para compartir alojamiento común, sin demasiadas innovaciones. Adicionalmente, en la P3 cambia a una app de arte callejero.
@@ -317,19 +321,20 @@ Descripcion y hoja de valoración.
 [Enlace a Repositorio](https://github.com/MigueCc99/DIU20)
 ## User Testing
 
-	Describe la experiencia 1
+	Juan Manuel busca guía turístico para darle un salto de calidad a su viaje y conocer más en profundidad la historia de la zona,para ello recurre a la app para contratar un guía turístico,
+	pero sospecha que se puede tratar de un timo porque  le piden dinero por adelantado. Acaba desinstalando la aplicación por falta de confianza y por su elevado nivel de "pay to use".
+	Aquí es donde entra en juego nuestro proyecto de estudio, Lookaround el cual satisface las necesidades de usuarios que presentan este tipo de problemas.
+	Ofreciendo así más funcionalidades de manera gratuita favoreciendo de esta forma la confianza con la aplicación por parte de los posibles futuros clientes de sus servicios.
 
 	Juan Manuel se registra en la web para ofrecer su habitación. Tras varios días le llega un mensaje a través de whatsapp al teléfono de Carlos de 21 años. Está interesado en la habitación por 2 semanas.
-	
 	Juan Manuel no puede ver el perfil de Carlos en la web, por lo que no sabe absolutamente nada del chico.
-	
 	Juan Manuel acepta y tras esas 2 semanas se encuentra la habitación con apariencia de jaula de un animal, un desastre. Éste se lamenta ya que no había tenido acceso a ninguna reseña anterior de Carlos.
 
 	Describe la experiencia 3
 
 
 ## Ranking
-
+1:Valoración final (numérica): 92 (excellent).
 # Conclusiones
 
 
