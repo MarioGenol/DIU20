@@ -319,12 +319,15 @@ Descripcion y hoja de valoración.
 
 	Describe la experiencia 1
 
-	Describe la experiencia 2
+	Juan Manuel se registra en la web para ofrecer su habitación. Tras varios días le llega un mensaje a través de whatsapp al teléfono de Carlos de 21 años. Está interesado en la habitación por 2 semanas. Juan Manuel no puede ver el perfil de Carlos en la web, por lo que no sabe absolutamente nada del chico.
+	Juan Manuel acepta y tras esas 2 semanas se encuentra la habitación con apariencia de jaula de un animal, un desastre. Éste se lamenta ya que no había tenido acceso a ninguna reseña anterior de Carlos.
 
 	Describe la experiencia 3
 
 
-## Conclusiones
+## Ranking
+
+# Conclusiones
 
 
 ## Paso 5. Evaluación de Accesibilidad  
