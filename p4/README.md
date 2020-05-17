@@ -8,7 +8,8 @@ https://github.com/EspGameplayer/DIU20
 
 Comentamos y analizamos la práctica de Diseño de Interfaces de Usuario del grupo DIU1_NJA. Su aplicación es una aplicación de economía colaborativa orientada a guías turísticos.
 
--Valoración final (numérica): 92 (excellent)
+-Valoración final (numérica): 92 (excellent).
+
 -Comentario sobre la valoración: El trabajo es sobresaliente en su conjunto, pero destaca positivamente sobretodo en el desarrollo de la idea que ofrece que está muy elaborado con unos bocetos y un sitemap de mucha calidad técnica. 
 
 Hoja de valoración https://github.com/MarioGenol/DIU20/blob/master/p4/DIU1_NJA_review.xlsx
