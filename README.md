@@ -322,7 +322,7 @@ Un trabajo completo en su conjunto. Sin elementos brillantes pero también sin d
 ## Caso 3
 
 Descripcion y hoja de valoración.   
-[Enlace a Repositorio](https://github.com/MigueCc99/DIU20)
+[Enlace a Repositorio](https://github.com/josalmer/DIU3_Workers)
 ## User Testing
 
 	Juan Manuel busca guía turístico para darle un salto de calidad a su viaje y conocer más en profundidad la historia de la zona,para ello recurre a la app para contratar un guía turístico,
