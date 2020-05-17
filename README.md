@@ -321,7 +321,12 @@ Un trabajo completo en su conjunto. Sin elementos brillantes pero también sin d
 
 ## Caso 3
 
-Descripcion y hoja de valoración.   
+Aquí se nos ofrece un software para encontrar compañeros con los que hacer deporte en naturaleza.
+
+[Hoja de Valoración](https://github.com/MarioGenol/DIU20/blob/master/p4/DIU2_MACC_review.xlsx)
+
+Conclusion valoracion
+
 [Enlace a Repositorio](https://github.com/josalmer/DIU3_Workers)
 ## User Testing
 
@@ -334,15 +339,21 @@ Descripcion y hoja de valoración.
 	Juan Manuel no puede ver el perfil de Carlos en la web, por lo que no sabe absolutamente nada del chico.
 	Juan Manuel acepta y tras esas 2 semanas se encuentra la habitación con apariencia de jaula de un animal, un desastre. Éste se lamenta ya que no había tenido acceso a ninguna reseña anterior de Carlos.
 
-	Describe la experiencia 3
+	Juan Manuel, harto de su vida sedentaria, decide buscar a gente con la que hacer senderismo. Este encuentra la web Nature Sport y decide inscribirse.
+	Una vez inscrito no encuentra grupos de senderismo que se adapten a sus horarios, ya que los disponibles son muy temprano y hay muy poca disponibilidad. Al final Juan Manuel acaba cansado de la página y comienza a buscar otra.
 
 
 ## Ranking
-1:Valoración final (numérica): 92 (excellent).
+
+<img src="" width="48">
+
+Grupo 1: 92 (excellent).
+Grupo 2: 80 (good).
+Grupo 3: ().
+
 # Conclusiones
 
-
--1: Este proyecto nos ha servido para realimentar nuestro conocimiento acerca de los casos de estudio, reafirmandonos en aspectos que nosotros habíamos hecho bien y mostrarnos otros en los que se podría haber hecho mejor. Felicitar a este grupo por su trabajo y su aportación en general.
+Este proyecto nos ha servido para realimentar nuestro conocimiento acerca de los casos de estudio, reafirmandonos en aspectos que nosotros habíamos hecho bien y mostrarnos otros en los que se podría haber hecho mejor. Felicitar a estos grupos por su trabajo y su aportación en general.
 
 ## Paso 5. Evaluación de Accesibilidad  
 
