@@ -47,7 +47,7 @@ Hemos elegido a estas dos personas porque nos parecen claros ejemplos de potenci
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
-<img src="P3/journey_juan.PNG">
+![journey_juan](P3/journey_juan.PNG)
 ![journey_julio](P3/journey_julio.PNG)
 Hemos elegido estas experiencias de usuario porque nos han parecido dos formas muy corrientes de llegar a conocer la plataforma, de acuerdo con las personalidades y el grupo de edad en que se encuentran cada uno de los dos potenciales clientes.
 
