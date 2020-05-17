@@ -7,20 +7,14 @@ Proyecto: Airbnb
 
 Descripción: Airbnb es una plataforma de alquiler inmobiliario. Ofrece multitud de opciones, como alquilar habitaciones, propiedades completas, o incluso experiecias como shows, tours, y demás.
 
-Logotipo: 
+<img src="https://st3.depositphotos.com/27847728/34695/v/450/depositphotos_346956324-stock-illustration-initial-letter-logo-design-vector.jpg" width="48">
 
 Miembros
  * :bust_in_silhouette:   Mario Genol Morales     :octocat:     
  * :bust_in_silhouette:  Jose Manuel López Molina     :octocat:
 
------ 
 
 En esta práctica estudiaremos un caso de plataforma de economía colaborativa y realizaremos una propuesta para su diseño Web/movil. Utilizaremos herramientas y entregables descritos en el siguiente CheckList (https://github.com/mgea/UX-DIU-Checklist) 
-
-
-Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del consumo colaborativo: del intercambio de bienes y servicios a la economía de las plataformas**, *Sphera Publica, 1*(19), 24-46. http://sphera.ucam.edu/index.php/sphera-01/article/view/363/14141434
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. 
 
 
 # Proceso de Diseño 
