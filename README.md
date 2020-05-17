@@ -325,7 +325,7 @@ Aquí se nos ofrece un software para encontrar compañeros con los que hacer dep
 
 [Hoja de Valoración](https://github.com/MarioGenol/DIU20/blob/master/p4/DIU3-workers-review.xlsx)
 
-Conclusion valoracion
+La conclusión de esta valoración es que es un software muy completo, y aunque podría mejorar en el apartado usuarios, no tiene grandes puntos débiles.
 
 [Enlace a Repositorio](https://github.com/josalmer/DIU3_Workers)
 ## User Testing
