@@ -26,7 +26,7 @@ Un trabajo completo en su conjunto. Sin elementos brillantes pero también sin d
 
 Aquí se nos ofrece un software para encontrar compañeros con los que hacer deporte en naturaleza.
 
-[Hoja de Valoración](https://github.com/MarioGenol/DIU20/blob/master/p4/DIU2_MACC_review.xlsx)
+[Hoja de Valoración](https://github.com/MarioGenol/DIU20/blob/master/p4/DIU3-workers-review.xlsx)
 
 Conclusion valoracion
 
@@ -49,7 +49,7 @@ Conclusion valoracion
 
 ## Ranking
 
-<img src="https://github.com/MarioGenol/DIU20/blob/master/p4/podio.png" width="400">
+<img src="https://github.com/MarioGenol/DIU20/blob/master/p4/podio.png" width="400" align="center">
 
 Grupo 1: 92 (excellent).
 
