@@ -307,8 +307,7 @@ Descripcion y hoja de valoración.
 
 ## Caso 2
 
-Descripcion y hoja de valoración.  
-
+El compañero propone un software para compartir alojamiento común, sin demasiadas innovaciones. Adicionalmente, en la P3 cambia a una app de arte callejero.
 
 ## Caso 3
 
