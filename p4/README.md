@@ -47,6 +47,17 @@ Conclusion valoracion
 	Una vez inscrito no encuentra grupos de senderismo que se adapten a sus horarios, ya que los disponibles son muy temprano y hay muy poca disponibilidad. Al final Juan Manuel acaba cansado de la página y comienza a buscar otra.
 
 
+## Ranking
+
+<img src="" width="48">
+
+Grupo 1: 92 (excellent).
+
+Grupo 2: 80 (good).
+
+Grupo 3: ().
+
+
 ## Conclusiones
 
 Este proyecto nos ha servido para realimentar nuestro conocimiento acerca de los casos de estudio, reafirmandonos en aspectos que nosotros habíamos hecho bien y mostrarnos otros en los que se podría haber hecho mejor. 
