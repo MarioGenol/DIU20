@@ -351,7 +351,7 @@ Grupo 1: 92 (excellent).
 
 Grupo 2: 80 (good).
 
-Grupo 3: ().
+Grupo 3: 89 (good).
 
 # Conclusiones
 
