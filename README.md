@@ -348,7 +348,9 @@ Conclusion valoracion
 <img src="" width="48">
 
 Grupo 1: 92 (excellent).
+
 Grupo 2: 80 (good).
+
 Grupo 3: ().
 
 # Conclusiones
