@@ -49,13 +49,13 @@ Conclusion valoracion
 
 ## Ranking
 
-<img src="" width="48">
+<img src="https://github.com/MarioGenol/DIU20/blob/master/p4/podio.png" width="400">
 
 Grupo 1: 92 (excellent).
 
 Grupo 2: 80 (good).
 
-Grupo 3: ().
+Grupo 3: 89 (good).
 
 
 ## Conclusiones
