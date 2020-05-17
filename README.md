@@ -355,7 +355,7 @@ Grupo 3: 89 (good).
 
 # Conclusiones
 
-Este proyecto nos ha servido para realimentar nuestro conocimiento acerca de los casos de estudio, reafirmandonos en aspectos que nosotros habíamos hecho bien y mostrarnos otros en los que se podría haber hecho mejor. Felicitar a estos grupos por su trabajo y su aportación en general.
+Estos proyectos nos han servido para realimentar nuestro conocimiento acerca de los casos de estudio, reafirmandonos en aspectos que nosotros habíamos hecho bien y mostrarnos otros en los que se podría haber hecho mejor. Felicitar a estos grupos por su trabajo y su aportación en general.
 
 ## Paso 5. Evaluación de Accesibilidad  
 
