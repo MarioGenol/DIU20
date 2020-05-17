@@ -313,6 +313,10 @@ El trabajo es sobresaliente en su conjunto, pero destaca positivamente sobretodo
 
 El compañero propone un software para compartir alojamiento común, sin demasiadas innovaciones. Adicionalmente, en la P3 cambia a una app de arte callejero.
 
+[Hoja de Valoración](https://github.com/MarioGenol/DIU20/blob/master/p4/DIU2_MACC_review.xlsx)
+
+Un trabajo completo en su conjunto. Sin elementos brillantes pero también sin deficiencias.
+
 [Enlace a Repositorio](https://github.com/MigueCc99/DIU20)
 
 ## Caso 3
