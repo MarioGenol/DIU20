@@ -327,7 +327,7 @@ Aquí se nos ofrece un software para encontrar compañeros con los que hacer dep
 
 Conclusion valoracion:
 
-El proyecto desarrollado por este grupo es sobresaliente y muy profesional en su conjunto, cabe destacar los maravillosos bocetos que han hecho junto con el user task flow, que nos hacen imaginarnos la aplicación a la perfección. De esta forma podemos darnos cuenta de que las decisiones que ha tomado este grupo de trabajo han sido en su mayoría correctas. Por poner una pega, decir que echamos en falta la user task matrix. 
+El proyecto desarrollado por este grupo es sobresaliente y muy profesional en su conjunto, cabe destacar los maravillosos bocetos junto con el user task flow, que nos hacen imaginarnos la aplicación a la perfección. De esta forma podemos darnos cuenta de que las decisiones que ha tomado este grupo de trabajo han sido en su mayoría correctas. Por poner una pega, decir que echamos en falta la user task matrix. 
 
 [Enlace a Repositorio](https://github.com/josalmer/DIU3_Workers)
 ## User Testing
