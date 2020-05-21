@@ -73,12 +73,18 @@ Sin embargo, se pueden señalar algunos aspectos positivos que sería interesant
 
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
-![malla](P2/P2/MallaReceptoraDeInfo.jpg)
+Tras haber analizado la web obtenemos lo siguiente: 
+
+![malla](feedback.png)
+
+Teniendo eso en cuenta, se pretende realizar una propuesta de valor, la cual implemente el diseño final. Esta consiste en la construcción de una sección de reseñas por oficina o sala de reuniones, ya que por la información de la web no podemos saber ni de cuantas salas disponen, ni de lo que los usuarios opinan de cada una de ellas, al igual que tampoco se valora lo esencial de este producto, el ambiente de trabajo.
+
   
-![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
+![Método UX](img/Sitemap.png) 2.b Sitemap 
 -----
-![](P2/P2/photo_2020-04-02_17-37-00.jpg)
-![](P2/P2/USER_TASK MATRIX.jpg)
+![sitemap](sitemap.jpg)
+
+Aquí se ha realizado un pequeño sitemap de lo que se quiere conseguir. Un rediseño que va a conservar los puntos fuertes de diseño, y además va a incorporar elementos de enorme utilidad para el usuario.
 
 ![Método UX](img/labelling.png) 2.c Labelling 
 ----
