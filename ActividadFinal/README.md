@@ -56,7 +56,7 @@ Creo que el Journey Map confeccionado se adapta bastante bien a lo que sería un
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
-* Enlace a la revisión de usabilidad: ![Usabilidad](https://github.com/MarioGenol/DIU20/blob/master/ActividadFinal/Usability-review.xlsx)
+* Enlace a la revisión de usabilidad: [Usabilidad](https://github.com/MarioGenol/DIU20/blob/master/ActividadFinal/Usability-review.xlsx)
 
 La aplicación presenta un diseño cuidado e intuitivo, el cual nos presenta la información con multitud de imágenes desde la pantalla inicial hasta cualquier sección de la web, que hacen que la experiencia de uso de la aplicación sea realmente atractiva.
 
