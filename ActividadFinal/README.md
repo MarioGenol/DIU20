@@ -42,33 +42,27 @@ Además, en este tipo de web se le da gran importancia a las valoraciones de sus
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
-Nuestro principal usuario voluntario, Juan Manuel:
-<img src="P3/juan1.PNG">
-<img src="P3/juan2.PNG">
+Nuestra persona, Marta Molina:
+<img src="img/marta.PNG">
 
-
-Nuestro personaje secundario involuntario, Julio:
-![julio1](P3/julio1.PNG)
-![julio2](P3/julio2.PNG)
-
-
-Hemos elegido a estas dos personas porque nos parecen claros ejemplos de potenciales usuarios de la plataforma. Julio tiene todos los requisitos de un cliente medio que quiere alquilar una habitación. Y Juan Manuel tiene grandes cualidades para querer poner a disposición de la plataforma su propiedad o parte de ella.
+He elegido a esta persona ya que creo que se adapta muy bien por el tipo de trabajo y la personalidad, y además cuenta con el añadido de que tiene problemas de visión. Este es un problema más común de lo que pensamos, por lo que puede ayudar incluso un poco más al desarrollo del diseño.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
-![journey_juan](P3/journey_juan.PNG)
-![journey_julio](P3/journey_julio.PNG)
-Hemos elegido estas experiencias de usuario porque nos han parecido dos formas muy corrientes de llegar a conocer la plataforma, de acuerdo con las personalidades y el grupo de edad en que se encuentran cada uno de los dos potenciales clientes.
+![journey_juan](img/journeyMarta.PNG)
+
+Creo que el Journey Map confeccionado se adapta bastante bien a lo que sería un transcurso normal de los hechos. Cualquier usuario con poco conocimiento del tema puede sufrir estos contratiempos.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
-La aplicación presenta un diseño cuidado e intuitivo, el cual nos presenta la información con grandes imágenes desde la pantalla inicial, que hacen que la experiencia de uso de la aplicación sea realmente atractiva. De hecho, el uso de estas imágenes se extiende también a las fichas de cada uno de los alojamientos, en las que los usuarios podrán encontrar toda a información referente a ellos (disponibilidad, mapa con su localización, servicios disponibles, información del anfitrión, comentarios de otros usuarios etc) que necesitan para decidir si contratar o no. Además, la aplicación también hace más sencilla la comunicación con sus anfitriones. Todas estas facilidades se amplían al poder recurrir a una completa sección de preguntas frecuentes.
+La aplicación presenta un diseño cuidado e intuitivo, el cual nos presenta la información con multitud de imágenes desde la pantalla inicial hasta cualquier sección de la web, que hacen que la experiencia de uso de la aplicación sea realmente atractiva.
 
-Por lo general, es sencillo usar la aplicación, presenta un buscador general permite localizar los alojamientos en la ciudad a visitar por el usuario, cuyos resultados se mostrarán de forma más eficaz gracias a la presencia de múltiples y variados filtros, en función del tipo de alojamiento (habitación privada, compartida etc ), el intervalo de precios o el equipamiento ofrecido (número de dormitorios, televisión, baño, WiF etc).
+La página cumple con lo que pretende, que es dar información acerca del sitio. Sin embargo, se deja muchas funcionalidades por el camino. Lo primero y más importante, es que el feedback de los clientes es prácticamente nulo. Cuenta con 2 opiniones que además estás editadas por la misma web. Esto es un gran factor de disuasión de clientes.
 
-Por si fuera poco, la aplicación además de contar con las características que comentamos, es multiplataforma, es de confianza y fiable ; y han solucionado los problemas que tenían hace años con los servicios de geolocalización para mostrar los lugares disponibles más cercanos a la posición del usuario, contando también cada vez con más destinos en los que solicitar sus servicios.
+Por otro lado, también podemos destacar negativamente que no tiene ninguna herramienta de búsqueda o que no pesee links a páginas externas que pudieran ser relevantes, como para explicar el termino "coworking", nuevo para muchos usuarios.
 
+Sin embargo, se pueden señalar algunos aspectos positivos que sería interesante conservar para el rediseño. Tenemos que la estructura de la página es muy intuitiva para el usuario. Junto con los menús, hacen muy sencillo navegar por la misma. Lo que es más, la paleta de colores usada es 100% válida y atractiva.
 
 ## Paso 2. UX Design  
 
