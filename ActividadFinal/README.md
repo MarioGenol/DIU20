@@ -1,21 +1,22 @@
-# DIU20 
-Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa) 
+# Actividad Final Teoría 
 
-Grupo: DIU2_M&J.  Curso: 2019/20 
+Mario Genol Morales.  Curso: 2019/20 
 
-Proyecto: Airbnb
+Proyecto: Cubikate
 
-Descripción: Airbnb es una plataforma de alquiler inmobiliario. Ofrece multitud de opciones, como alquilar habitaciones, propiedades completas, o incluso experiecias como shows, tours, y demás.
+Descripción: Cubikate es una empresa que dispone de oficinas de trabajo colaborativo (Coworking). Un nuevo concepto con mucho potencial en el mundo empresarial.
 
-<img src="https://st3.depositphotos.com/27847728/34695/v/450/depositphotos_346956324-stock-illustration-initial-letter-logo-design-vector.jpg" width="48">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTBH-a0245uw9WGEThPXy4XXCactOtRE_Hi_hOf010kaxpInOm8&usqp=CAU" width="48">
 
-Miembros
- * :bust_in_silhouette:   Mario Genol Morales     :octocat:     
- * :bust_in_silhouette:  Jose Manuel López Molina     :octocat:
+* :bust_in_silhouette:   Mario Genol Morales     :octocat:     
 
+# Introducción
 
-En esta práctica estudiaremos un caso de plataforma de economía colaborativa y realizaremos una propuesta para su diseño Web/movil. Utilizaremos herramientas y entregables descritos en el siguiente CheckList (https://github.com/mgea/UX-DIU-Checklist) 
-
+El coworking o trabajo cooperativo consiste en una forma de trabajo en la que profesionales independientes comparten un mismo espacio de trabajo con el fin de desarrollar sus proyectos profesionales de manera independiente, a la vez que fomentan proyectos conjuntos.
+En este proyecto se va a llevar a cabo un rediseño de una página web centrada en el coworking, “Cubikate”. En él, se van a aplicar técnicas y metodologías de diseño centrado en usuario y UX.
+Para el desarrollo del mismo se tendrán en cuenta aspectos como la claridad, la consistencia o la usabilidad, entre otros.
+Personalmente, me ha parecido realmente interesante el tema de accesibilidad abarcado en la asignatura, y he querido enfocar el proyecto a ello. Es por ello que se va a utilizar una persona con problemas de visión.
+ 
 
 # Proceso de Diseño 
 
@@ -23,11 +24,13 @@ En esta práctica estudiaremos un caso de plataforma de economía colaborativa y
 
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
-Plataformas para compartir piso y Airbnb
+Tras analizar diferentes sitios web de empresas del sector, como:
+https://www.be-working.com/
+https://laaduanacoworking.com/
+https://ecolaboralcoworking.com/
+Hemos sacado algunas conclusiones. Por ejemplo, la gran mayoría utilizan un formato muy similar, siendo los menús idénticos en alguna ocasión. Un punto negativo de la web que estamos analizando es que todas las demás tienen toda una sección dedicada a precios. Por lo que los usuarios se ahorrarían bastante tiempo y podrían elegir otra.
 
-Las páginas web para compartir piso son una herramienta útil y novedosa, con un gran mercado, sobretodo entre la gente más joven. Estas páginas suelen tener diseños y interfaces atractivos y visuales al usuario, y cabe destacar la gran importancia de las valoraciones, ya que es el sistema que tienen para dar confianza al usuario.
-
-Airbnb es una empresa que ofrece una plataforma de software dedicada a la oferta de alojamientos a particulares y turísticos mediante la cual los anfitriones pueden publicitar y contratar el arriendo de sus propiedades con sus huéspedes. La gran diferencia con la mayoría de aplicaciones similares, es que engloba muchas más opciones. Se puede tanto alquilar habitaciones en el hogar del anfitrión, como alquilar propiedades completas, e incluso pueden comprar experiencias como tours, shows, gastronomía, etc. Es por ello que hemos elegido esta web.
+Además, en este tipo de web se le da gran importancia a las valoraciones de sus clientes, llegando a contar algunas hasta con videos de opiniones. Sin duda este tiene que ser un punto a resolver en Cubikate.
 
 
 ![Método UX](img/Persona.png) 1.b Persona
