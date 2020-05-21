@@ -43,14 +43,14 @@ Además, en este tipo de web se le da gran importancia a las valoraciones de sus
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 Nuestra persona, Marta Molina:
-<img src="img/marta.PNG">
+<img src="img/marta.png">
 
 He elegido a esta persona ya que creo que se adapta muy bien por el tipo de trabajo y la personalidad, y además cuenta con el añadido de que tiene problemas de visión. Este es un problema más común de lo que pensamos, por lo que puede ayudar incluso un poco más al desarrollo del diseño.
 
-![Método UX](img/Journey.png) 1.c User Journey Map
+![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
-![journey_juan](img/journeyMarta.PNG)
+![journey_juan](img/journey.png)
 
 Creo que el Journey Map confeccionado se adapta bastante bien a lo que sería un transcurso normal de los hechos. Cualquier usuario con poco conocimiento del tema puede sufrir estos contratiempos.
 
