@@ -82,7 +82,7 @@ Teniendo eso en cuenta, se pretende realizar una propuesta de valor, la cual imp
   
 ![Método UX](img/Sitemap.png) 2.b Sitemap 
 -----
-![sitemap](sitemap.jpg)
+![sitemap](sitemap.png)
 
 Aquí se ha realizado un pequeño sitemap de lo que se quiere conseguir. Un rediseño que va a conservar los puntos fuertes de diseño, y además va a incorporar elementos de enorme utilidad para el usuario.
 
