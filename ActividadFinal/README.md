@@ -13,8 +13,11 @@ Descripción: Cubikate es una empresa que dispone de oficinas de trabajo colabor
 # Introducción
 
 El coworking o trabajo cooperativo consiste en una forma de trabajo en la que profesionales independientes comparten un mismo espacio de trabajo con el fin de desarrollar sus proyectos profesionales de manera independiente, a la vez que fomentan proyectos conjuntos.
+
 En este proyecto se va a llevar a cabo un rediseño de una página web centrada en el coworking, “Cubikate”. En él, se van a aplicar técnicas y metodologías de diseño centrado en usuario y UX.
+
 Para el desarrollo del mismo se tendrán en cuenta aspectos como la claridad, la consistencia o la usabilidad, entre otros.
+
 Personalmente, me ha parecido realmente interesante el tema de accesibilidad abarcado en la asignatura, y he querido enfocar el proyecto a ello. Es por ello que se va a utilizar una persona con problemas de visión.
  
 
