@@ -28,9 +28,13 @@ Personalmente, me ha parecido realmente interesante el tema de accesibilidad aba
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 Tras analizar diferentes sitios web de empresas del sector, como:
+
 https://www.be-working.com/
+
 https://laaduanacoworking.com/
+
 https://ecolaboralcoworking.com/
+
 Hemos sacado algunas conclusiones. Por ejemplo, la gran mayoría utilizan un formato muy similar, siendo los menús idénticos en alguna ocasión. Un punto negativo de la web que estamos analizando es que todas las demás tienen toda una sección dedicada a precios. Por lo que los usuarios se ahorrarían bastante tiempo y podrían elegir otra.
 
 Además, en este tipo de web se le da gran importancia a las valoraciones de sus clientes, llegando a contar algunas hasta con videos de opiniones. Sin duda este tiene que ser un punto a resolver en Cubikate.
