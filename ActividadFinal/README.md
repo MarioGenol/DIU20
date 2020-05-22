@@ -86,18 +86,13 @@ Teniendo eso en cuenta, se pretende realizar una propuesta de valor, la cual imp
 
 Aquí se ha realizado un pequeño sitemap de lo que se quiere conseguir. Un rediseño que va a conservar los puntos fuertes de diseño, y además va a incorporar elementos de enorme utilidad para el usuario.
 
-![Método UX](img/labelling.png) 2.c Labelling 
-----
-![label](P2/P2/1.jpg)
-
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
-![foto](P2/P2/Bocetos/Registro.jpg)
-![foto](P2/P2/Bocetos/LogIn.jpg)
-![label](P2/P2/Bocetos/Menú.jpg)
-![label](P2/P2/Bocetos/Búsqueda.jpg)
-![label](P2/P2/Bocetos/AlojamientoConcreto.jpg)
-![label](P2/P2/Bocetos/AboutUs.jpg)
+![foto](img/d1.jpeg)
+![foto](img/d2.jpeg)
+![foto](img/d3.jpeg)
+
+Estos bocetos que representan lo que posteriormente sería la web, se han confeccionado en base a las necesidades y carencias que se han determinado en las secciones anteriores.
 
 
 # Paso 3. Case Study
