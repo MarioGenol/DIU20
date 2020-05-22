@@ -89,7 +89,11 @@ Aquí se ha realizado un pequeño sitemap de lo que se quiere conseguir. Un redi
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 ![foto](img/d1.jpeg)
+
+
 ![foto](img/d2.jpeg)
+
+
 ![foto](img/d3.jpeg)
 
 Estos bocetos que representan lo que posteriormente sería la web, se han confeccionado en base a las necesidades y carencias que se han determinado en las secciones anteriores.
